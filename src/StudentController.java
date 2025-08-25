@@ -5,7 +5,7 @@ public class StudentController {
 =======
     
     public static void main(String[] args) {
-        imprimirMensaje("oli");
+        imprimirMensaje("oño");
     }
 
     public static void imprimirMensaje(String mensaje) {
