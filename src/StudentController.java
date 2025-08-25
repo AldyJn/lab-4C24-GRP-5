@@ -1,6 +1,5 @@
 public class StudentController {
-    public void controller()
-{
-    //todo
-}
+    public void controller(){
+    //TO DO
+    }
 }
